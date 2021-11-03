@@ -1,2 +1,6 @@
-#this is not correct code
-cout "hello";
+#this is the correct code
+#include <iostream>
+int main() {
+    cout << "hello";
+    return 0;
+}
