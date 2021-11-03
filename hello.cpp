@@ -1,6 +1,5 @@
-#this is the correct code
 #include <iostream>
 int main() {
-    cout << "hello";
+    std::cout << "hello";
     return 0;
 }
